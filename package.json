@@ -1,12 +1,12 @@
 {
- "name": "frerot-react-components",
+ "name": "components-frerot",
  "version": "1.0.0",
  "description": "React-component-library used in your react Projects",
  "main": "dist/cjs/index.js",
  "module": "dist/esm/index.js",
  "types": "dist/index.d.ts",
  "files": [
-  "./dist"
+  "dist"
  ],
  "scripts": {
   "build": "rollup -c",

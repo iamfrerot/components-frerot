@@ -22,12 +22,12 @@ describe('Page', () => {
   // const titleElement = getByText(title);
   // const childrenElement = getByText(children);
   expect(container).toHaveStyle(`
- display:flex;
+display:flex;
 flex-direction: column;
 align-items: center;
 justify-content: center;
 height: 100vh;
-background-color: #f5f5f5
+background-color: #f5f5
    `);
  });
 });
