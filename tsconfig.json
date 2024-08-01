@@ -1,0 +1,25 @@
+{
+ "compilerOptions": {
+  "target": "ESNext",
+  "jsx": "react-jsx",
+  "module": "ESNext",
+  "moduleResolution": "Node",
+  "allowJs": false,
+  "maxNodeModuleJsDepth": 1,
+  "declaration": true,
+  "emitDeclarationOnly": true,
+  "sourceMap": true,
+  "outDir": "dist",
+  "declarationDir": "types",
+  "allowSyntheticDefaultImports": true,
+  "esModuleInterop": true,
+  "forceConsistentCasingInFileNames": true,
+  "strict": true,
+  "noUnusedLocals": true,
+  "noUnusedParameters": true,
+  "noImplicitReturns": true,
+  "noUncheckedIndexedAccess": true,
+  "allowUnreachableCode": false,
+  "skipLibCheck": true
+ }
+}
